@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/habib-wahid/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/habib-wahid)
 [![Email](https://img.shields.io/badge/Email-habib11wahid@gmail.com-red)](mailto:habib11wahid@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-Follow%20My%20Articles-black?logo=medium)](https://medium.com/@habib11wahid)
 
 ---
 
@@ -44,6 +45,45 @@
 
 ---
 
+## 💡 Featured Project
+
+### 🧾 **Smart Menu**  
+**A modern web application to automate restaurant orders.**
+
+**🔗 GitHub:** [habib-wahid/smart-menu](https://github.com/habib-wahid/smart-menu)
+
+#### 🧩 Description
+Smart Menu is a full-stack restaurant automation system where customers can order directly without a waiter.  
+The kitchen receives real-time updates on incoming orders, while the system manages authentication, order tracking, and integrated payments for cloud kitchens.
+
+#### ⚙️ Functionalities
+- User authentication and authorization  
+- Item & category creation and management  
+- Interactive item viewing and order placement  
+- Real-time order status updates for the kitchen and customers  
+- Integrated payment processing for cloud kitchens  
+
+#### 🛠️ Tech Stack
+- **Frontend:** Next.js  
+- **Backend:** Spring Boot  
+- **Database:** PostgreSQL  
+- **ORM & Versioning:** Hibernate, Data JPA, Hibernate Envers  
+- **Database Migration:** Liquibase  
+
+---
+
+## 📝 Latest Articles on Medium
+
+I write about Java, Spring Boot, Microservices, and modern backend architecture.  
+
+- [Stop Building Basic Spring Boot Apps: Master These 5 Advanced Techniques](https://blog.stackademic.com/stop-building-basic-spring-boot-apps-master-these-5-advanced-techniques-3e767546e434)
+- [99% of Junior Java Developers Make These Mistakes — See How Senior Devs Write Clean, Efficient Java Code](https://medium.com/javarevisited/99-of-junior-java-developers-make-these-mistakes-see-how-senior-devs-write-clean-efficient-603d25e0d99a)
+- [Database Replication: The Line Between Passing and Failing System Design Interviews](https://medium.com/stackademic/database-replication-the-line-between-passing-and-failing-system-design-interviews-b8c3e7d39322)
+
+👉 **Read all my articles on Medium:** [medium.com/@habib11wahid](https://medium.com/@habib11wahid)
+
+---
+
 ## 🎓 Education
 
 **B.Sc. in Software Engineering**  
@@ -57,7 +97,7 @@
 ---
 
 ## 🏆 Honors & Awards
-- 🥈 Finalist — Therep Java Fest (2022)  
+- 🥈 Finalist — Therap Java Fest (2022)  
 - 🥈 Finalist — bdApps Sylhet Region (2022)
 
 ---
@@ -85,10 +125,7 @@ I regularly write about:
 - LLM Integrations with Spring Boot (LangChain4j, RAG, VectorDB)
 - Software Engineering Principles & Career Growth
 
-👉 **Visit:** [https://habib-wahid.github.io](https://habib-wahid.github.io)
-
 ---
 
 > “Great software begins with a clear model of reality.” — Eric Evans  
 > Building systems that align with both **business domains** and **human understanding**.
-
