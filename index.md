@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Md Habibur Rahman (Habib Wahid)
 
-### 🚀 Java | Spring Boot | Full-Stack Software Engineer
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/habib-wahid/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/habib-wahid)
 [![Email](https://img.shields.io/badge/Email-habib11wahid@gmail.com-red)](mailto:habib11wahid@gmail.com)
