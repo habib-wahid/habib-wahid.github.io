@@ -1,0 +1,16 @@
+theme: jekyll-theme-cayman
+title: Md Habibur Rahman (Habib Wahid)
+description: Java | Spring Boot | Full-Stack Software Engineer
+
+# Tell Jekyll to process markdown files
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - README.md
+  - blog.md

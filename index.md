@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/habib-wahid)
 [![Email](https://img.shields.io/badge/Email-habib11wahid@gmail.com-red)](mailto:habib11wahid@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-Follow%20My%20Articles-black?logo=medium)](https://medium.com/@habib11wahid)
-[![Blog](https://img.shields.io/badge/Blog-Read%20My%20Posts-black?logo=blogger)](/blogs.md)
+[![Blog](https://img.shields.io/badge/Blog-Read%20My%20Posts-black?logo=blogger)](blog)
 
 
 ---
