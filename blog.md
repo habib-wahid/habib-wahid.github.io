@@ -15,6 +15,8 @@ I write about **Java**, **Spring Boot**, **Design Pattern**, **Database**, **Cle
 
 **[Java Enums: Beyond Basic Constants into a Powerhouse Pattern](https://medium.com/javarevisited/java-enums-beyond-basic-constants-into-a-powerhouse-pattern-1a4dc68fa3e9)**
 
+**[The Double Comparison Trap: Why 0.1 + 0.2 ≠ 0.3 — The $Million Bug Hiding in Your Codebase](https://medium.com/javarevisited/the-double-comparison-trap-why-0-1-0-2-0-3-the-million-bug-hiding-in-your-codebase-6a2d854fc112)**
+
 **[100+ Java Projects Reviewed: 10 Stream Mistakes That Break Code](https://medium.com/stackademic/100-java-projects-reviewed-10-stream-mistakes-that-break-code-6dc0ce44d4b4)**
 
 **[99% of Junior Java Developers Make These Mistakes — See How Senior Devs Write Clean, Efficient Java Code](https://medium.com/javarevisited/99-of-junior-java-developers-make-these-mistakes-see-how-senior-devs-write-clean-efficient-603d25e0d99a)**
@@ -28,6 +30,10 @@ Lean Java from basic to advance level.
 ### 🚀 Advanced Spring Boot
 
 **[Stop Building Basic Spring Boot Apps: Master These 5 Advanced Techniques](https://blog.stackademic.com/stop-building-basic-spring-boot-apps-master-these-5-advanced-techniques-3e767546e434)**
+
+**[Stop Writing CRUD APIs: 5 Advanced Spring Boot Patterns That Impress in Code Reviews](https://medium.com/stackademic/stop-writing-crud-apis-5-advanced-spring-boot-patterns-that-impress-in-code-reviews-7a6ff72032d5)**
+
+**[99% of Java Developers Get Exception Handling Wrong — Here’s What Senior Devs Do Instead](https://medium.com/stackademic/99-of-java-developers-get-exception-handling-wrong-heres-what-senior-devs-do-instead-0377133e06cd)**
 
 **[Why @Autowired Is Hurting Your Spring Boot Code — And How to Fix It](https://medium.com/stackademic/why-autowired-is-hurting-your-spring-boot-code-and-how-to-fix-it-48f924aba39f)**
 
